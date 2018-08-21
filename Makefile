@@ -68,11 +68,11 @@ LIBNAME := libjmetal.a
 LIB := $(LIBDIR)/$(LIBNAME)
 
 
-# Dependencies needed when generating executables	
+# Dependencies needed when generating executables
 MAIN_DEPS := $(LIB)
 
 # Libraries needed when generating executables
-MAIN_LIBS := -lm #-pthread
+MAIN_LIBS := -lm -pthread
 
 
 # All rule
@@ -106,11 +106,11 @@ $(BUILDDIR)/%.o: $(SRCDIR)/%.$(SRCEXT)
 
 # Clean rule
 clean:
-	@echo " Cleaning..."; 
+	@echo " Cleaning...";
 	@echo " $(RM) -r $(BUILDDIR) $(BINDIR) $(LIBDIR)"; $(RM) -r $(BUILDDIR) $(BINDIR) $(LIBDIR)
 
 # Tests
-tester: 
+tester:
 
 # Spikes (CMAES_main quick developing and compiling example)
 spikes : CMAES_main_spike
