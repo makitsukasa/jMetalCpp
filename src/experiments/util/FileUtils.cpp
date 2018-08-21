@@ -60,7 +60,7 @@ int FileUtils::createDirectory(string path) {
       if (path[i] == '/' || i == path.size()-1) {
         string path2 = path.substr(0, i+1);
 
-        #ifdef WINDOWS
+        #if defined(WINDOWS) || defined(_WIN32)
         res = mkdir(path2.c_str());
         #else
         res = mkdir(path2.c_str() , S_IRWXU | S_IRWXG | S_IRWXO);
