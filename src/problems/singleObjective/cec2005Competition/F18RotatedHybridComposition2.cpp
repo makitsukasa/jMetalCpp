@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F18RotatedHybridComposition2.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F18RotatedHybridComposition2.h>
 
 // Fixed (class) parameters
 const string F18RotatedHybridComposition2::FUNCTION_NAME = "Rotated Hybrid Composition Function 2";

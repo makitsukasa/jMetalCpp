@@ -21,7 +21,7 @@
 #include <vector>
 #include <stdio.h>
 
-#include <Hypervolume.h>
+#include <jMetalCpp/qualityIndicator/Hypervolume.h>
 
 using namespace std;
 

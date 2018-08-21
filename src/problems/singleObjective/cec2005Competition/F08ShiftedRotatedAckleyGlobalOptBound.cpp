@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F08ShiftedRotatedAckleyGlobalOptBound.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F08ShiftedRotatedAckleyGlobalOptBound.h>
 
 // Fixed (class) parameters
 const string F08ShiftedRotatedAckleyGlobalOptBound::FUNCTION_NAME = "Shifted Rotated Ackley's Function with Global Optimum on Bounds";

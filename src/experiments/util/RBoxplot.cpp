@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RBoxplot.h>
+#include <jMetalCpp/experiments/util/RBoxplot.h>
 
 void RBoxplot::generateScripts(int rows, int cols, vector<string> problems, string prefix,
       bool notch, ExperimentReport * experiment) {

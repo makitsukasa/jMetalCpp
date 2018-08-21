@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <NSGAII.h>
+#include <jMetalCpp/metaheuristics/nsgaII/NSGAII.h>
 
 
 /*

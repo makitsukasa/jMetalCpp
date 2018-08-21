@@ -21,7 +21,7 @@
 #include <vector>
 #include <stdio.h>
 
-#include <Spread.h>
+#include <jMetalCpp/qualityIndicator/Spread.h>
 
 using namespace std;
 

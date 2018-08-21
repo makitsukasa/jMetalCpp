@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include "AdaptiveRandomNeighborhood.h"
+#include <jMetalCpp/util/AdaptiveRandomNeighborhood.h>
 
 /**
  * Class representing an adaptive random neighborhood

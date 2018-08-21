@@ -18,7 +18,7 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <DTLZ4.h>
+#include <jMetalCpp/problems/DTLZ/DTLZ4.h>
 
 const double DTLZ4::PI = 3.141592653589793;
 

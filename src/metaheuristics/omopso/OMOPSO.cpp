@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <OMOPSO.h>
+#include <jMetalCpp/metaheuristics/omopso/OMOPSO.h>
 
 
 /**

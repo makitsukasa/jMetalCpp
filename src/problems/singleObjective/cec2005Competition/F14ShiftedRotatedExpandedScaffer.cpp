@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F14ShiftedRotatedExpandedScaffer.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F14ShiftedRotatedExpandedScaffer.h>
 
 // Fixed (class) parameters
 const string F14ShiftedRotatedExpandedScaffer::FUNCTION_NAME = "Shifted Rotated Expanded Scaffer's F6 Function";

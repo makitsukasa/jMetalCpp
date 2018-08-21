@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F02ShiftedSchwefel.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F02ShiftedSchwefel.h>
 
 // Fixed (class) parameters
 const string F02ShiftedSchwefel::FUNCTION_NAME = "Shifted Schwefel's Problem 1.2";

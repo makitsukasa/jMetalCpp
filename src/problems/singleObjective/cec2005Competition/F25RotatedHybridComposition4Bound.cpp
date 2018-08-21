@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F25RotatedHybridComposition4Bound.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F25RotatedHybridComposition4Bound.h>
 
 // Fixed (class) parameters
 const string F25RotatedHybridComposition4Bound::FUNCTION_NAME = "Rotated Hybrid Composition Function 4 without bounds";

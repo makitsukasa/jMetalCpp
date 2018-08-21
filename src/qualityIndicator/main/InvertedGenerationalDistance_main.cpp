@@ -21,7 +21,7 @@
 #include <vector>
 #include <stdio.h>
 
-#include <InvertedGenerationalDistance.h>
+#include <jMetalCpp/qualityIndicator/InvertedGenerationalDistance.h>
 
 using namespace std;
 

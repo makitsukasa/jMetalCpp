@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F03ShiftedRotatedHighCondElliptic.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F03ShiftedRotatedHighCondElliptic.h>
 
 // Fixed (class) parameters
 const string F03ShiftedRotatedHighCondElliptic::FUNCTION_NAME = "Shifted Rotated High Conditioned Elliptic Function";

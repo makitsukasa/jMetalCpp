@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <ArrayRealSolutionType.h>
+#include <jMetalCpp/encodings/solutionType/ArrayRealSolutionType.h>
 #include <cstddef>
 
 

@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <PSO_Settings.h>
+#include <jMetalCpp/experiments/settings/PSO_Settings.h>
 
 
 /**

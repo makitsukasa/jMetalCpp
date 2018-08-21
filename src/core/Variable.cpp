@@ -21,7 +21,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <Variable.h>
+#include <jMetalCpp/core/Variable.h>
 #include <cstddef>
 
 

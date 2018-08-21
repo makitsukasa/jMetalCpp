@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F17RotatedHybridComposition1Noise.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F17RotatedHybridComposition1Noise.h>
 
 // Fixed (class) parameters
 const string F17RotatedHybridComposition1Noise::FUNCTION_NAME = "Rotated Hybrid Composition Function 1 with Noise in Fitness";

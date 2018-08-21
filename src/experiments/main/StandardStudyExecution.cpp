@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <StandardStudyExecution.h>
+#include <jMetalCpp/experiments/main/StandardStudyExecution.h>
 
 
 /**

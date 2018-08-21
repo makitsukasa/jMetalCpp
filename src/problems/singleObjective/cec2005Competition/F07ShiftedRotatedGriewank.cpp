@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F07ShiftedRotatedGriewank.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F07ShiftedRotatedGriewank.h>
 
 // Fixed (class) parameters
 const string F07ShiftedRotatedGriewank::FUNCTION_NAME = "Shifted Rotated Griewank's Function without Bounds";

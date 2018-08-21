@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RunExperiment.h>
+#include <jMetalCpp/experiments/util/RunExperiment.h>
 
 
 /**

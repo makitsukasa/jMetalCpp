@@ -20,7 +20,7 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <DominanceComparator.h>
+#include <jMetalCpp/util/comparators/DominanceComparator.h>
 
 /**
   * @class DominanceComparator

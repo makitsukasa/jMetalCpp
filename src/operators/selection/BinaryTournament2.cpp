@@ -21,7 +21,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <BinaryTournament2.h>
+#include <jMetalCpp/operators/selection/BinaryTournament2.h>
 
 
 /**

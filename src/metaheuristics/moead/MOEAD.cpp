@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <MOEAD.h>
+#include <jMetalCpp/metaheuristics/moead/MOEAD.h>
 
 
 /*

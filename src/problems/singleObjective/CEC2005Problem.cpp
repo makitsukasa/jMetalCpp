@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <CEC2005Problem.h>
+#include <jMetalCpp/problems/singleObjective/CEC2005Problem.h>
 
 const double CEC2005Problem::PI = 3.141592653589793;
 

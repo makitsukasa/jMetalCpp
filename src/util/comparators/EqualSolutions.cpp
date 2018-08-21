@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <EqualSolutions.h>
+#include <jMetalCpp/util/comparators/EqualSolutions.h>
 
 
 /**

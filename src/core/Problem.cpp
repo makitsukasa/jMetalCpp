@@ -21,7 +21,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <Problem.h>
+#include <jMetalCpp/core/Problem.h>
 
 
 const int Problem::DEFAULT_PRECISSION = 16;

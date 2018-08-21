@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F23NoncontinuousRotatedHybridComposition3.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F23NoncontinuousRotatedHybridComposition3.h>
 
 // Fixed (class) parameters
 const string F23NoncontinuousRotatedHybridComposition3::FUNCTION_NAME = "Non-Continuous Rotated Hybrid Composition Function 3";

@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <BinaryReal.h>
+#include <jMetalCpp/encodings/variable/BinaryReal.h>
 
 
 /**
