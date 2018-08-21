@@ -18,12 +18,12 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Problem.h>
-#include <Algorithm.h>
-#include <Solution.h>
-#include <ProblemFactory.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Algorithm.h>
+#include <jMetalCpp/core/Solution.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
 #include <iostream>
-#include <CMAES.h>
+#include <jMetalCpp/metaheuristics/singleObjective/cmaes/CMAES.h>
 #include <time.h>
 
 int main(int argc, char ** argv) {

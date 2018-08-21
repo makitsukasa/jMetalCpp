@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F24RotatedHybridComposition4.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F24RotatedHybridComposition4.h>
 
 // Fixed (class) parameters
 const string F24RotatedHybridComposition4::FUNCTION_NAME = "Rotated Hybrid Composition Function 4";

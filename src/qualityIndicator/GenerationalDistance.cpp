@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <GenerationalDistance.h>
+#include <jMetalCpp/qualityIndicator/GenerationalDistance.h>
 
 /*
  * This is the pow used for the distances

@@ -21,7 +21,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <PolynomialMutation.h>
+#include <jMetalCpp/operators/mutation/PolynomialMutation.h>
 
 
 const double PolynomialMutation::ETA_M_DEFAULT_ = 20.0;

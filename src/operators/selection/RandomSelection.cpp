@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RandomSelection.h>
+#include <jMetalCpp/operators/selection/RandomSelection.h>
 
 /**
  * @class RandomSelection

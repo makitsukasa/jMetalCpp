@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F21RotatedHybridComposition3.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F21RotatedHybridComposition3.h>
 
 // Fixed (class) parameters
 const string F21RotatedHybridComposition3::FUNCTION_NAME = "Rotated Hybrid Composition Function 3";

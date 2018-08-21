@@ -21,7 +21,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <Distance.h>
+#include <jMetalCpp/util/Distance.h>
 
 
 /**

@@ -18,7 +18,7 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <ZDT1.h>
+#include <jMetalCpp/problems/ZDT/ZDT1.h>
 
 ZDT1::ZDT1(string solutionType, int numberOfVariables) {
 	numberOfVariables_   = numberOfVariables;

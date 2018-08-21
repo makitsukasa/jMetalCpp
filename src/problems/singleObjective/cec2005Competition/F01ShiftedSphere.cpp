@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F01ShiftedSphere.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F01ShiftedSphere.h>
 
 // Fixed (class) parameters
 const string F01ShiftedSphere::FUNCTION_NAME = "Shifted Sphere Function";

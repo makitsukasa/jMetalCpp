@@ -19,17 +19,17 @@
 //  //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //
 
-#include <Problem.h>
-#include <Solution.h>
-#include <HUXCrossover.h>
-#include <BitFlipMutation.h>
-#include <BinaryTournament.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Solution.h>
+#include <jMetalCpp/operators/crossover/HUXCrossover.h>
+#include <jMetalCpp/operators/mutation/BitFlipMutation.h>
+#include <jMetalCpp/operators/selection/BinaryTournament.h>
 #include <iostream>
-#include <MOCHC.h>
-#include <ProblemFactory.h>
+#include <jMetalCpp/metaheuristics/mochc/MOCHC.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
 #include <string.h>
 #include <time.h>
-#include <MOCHC.h>
+#include <jMetalCpp/metaheuristics/mochc/MOCHC.h>
 
 
 /**

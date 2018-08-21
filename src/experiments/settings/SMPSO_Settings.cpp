@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <SMPSO_Settings.h>
+#include <jMetalCpp/experiments/settings/SMPSO_Settings.h>
 
 
 /**

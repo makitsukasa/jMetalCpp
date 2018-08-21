@@ -18,15 +18,15 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Problem.h>
-#include <Algorithm.h>
-#include <Solution.h>
-#include <Operator.h>
-//#include <QualityIndicator.h>
-#include <DE.h>
-#include <ProblemFactory.h>
-#include <DifferentialEvolutionCrossover.h>
-#include <DifferentialEvolutionSelection.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Algorithm.h>
+#include <jMetalCpp/core/Solution.h>
+#include <jMetalCpp/core/Operator.h>
+//#include <jMetalCpp/qualityIndicator/QualityIndicator.h>
+#include <jMetalCpp/metaheuristics/singleObjective/differentialEvolution/DE.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
+#include <jMetalCpp/operators/crossover/DifferentialEvolutionCrossover.h>
+#include <jMetalCpp/operators/selection/DifferentialEvolutionSelection.h>
 #include <iostream>
 #include <time.h>
 

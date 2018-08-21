@@ -21,8 +21,8 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RankComparator.h>
-#include <CrowdingComparator.h>
+#include <jMetalCpp/util/comparators/RankComparator.h>
+#include <jMetalCpp/util/comparators/CrowdingComparator.h>
 
 /**
  * Constructor

@@ -19,7 +19,7 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Benchmark.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/Benchmark.h>
 
 //TODO: Cambiar ruta
 //const string Benchmark::DEFAULT_FILE_BIAS = Configuration.cec2005SupportDataDirectory + "/fbias_data.txt";

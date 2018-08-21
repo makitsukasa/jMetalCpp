@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <GDE3_Settings.h>
+#include <jMetalCpp/experiments/settings/GDE3_Settings.h>
 
 
 /**

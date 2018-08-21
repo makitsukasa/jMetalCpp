@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F20RotatedHybridComposition2GlobalOptBound.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F20RotatedHybridComposition2GlobalOptBound.h>
 
 // Fixed (class) parameters
 const string F20RotatedHybridComposition2GlobalOptBound::FUNCTION_NAME = "Rotated Hybrid Composition Function 2 with Global Optimum on the Bounds";

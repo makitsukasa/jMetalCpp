@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <GDE3.h>
+#include <jMetalCpp/metaheuristics/gde3/GDE3.h>
 
 
 /*

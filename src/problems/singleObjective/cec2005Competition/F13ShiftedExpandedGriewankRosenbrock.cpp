@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F13ShiftedExpandedGriewankRosenbrock.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F13ShiftedExpandedGriewankRosenbrock.h>
 
 // Fixed (class) parameters
 const string F13ShiftedExpandedGriewankRosenbrock::FUNCTION_NAME = "Shifted Expanded Griewank's plus Rosenbrock's Function";

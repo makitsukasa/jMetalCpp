@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RWilcoxon.h>
+#include <jMetalCpp/experiments/util/RWilcoxon.h>
 
 
 void RWilcoxon::generateScripts(vector<string> problems, string prefix, ExperimentReport * experiment) {

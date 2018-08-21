@@ -18,17 +18,17 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Algorithm.h>
-#include <Problem.h>
-#include <Operator.h>
-#include <Solution.h>
+#include <jMetalCpp/core/Algorithm.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Operator.h>
+#include <jMetalCpp/core/Solution.h>
 
-#include <SMPSOhv.h>
+#include <jMetalCpp/metaheuristics/smpso/SMPSOhv.h>
 
-#include <Mutation.h>
-#include <PolynomialMutation.h>
-#include <ProblemFactory.h>
-#include <QualityIndicator.h>
+#include <jMetalCpp/operators/mutation/Mutation.h>
+#include <jMetalCpp/operators/mutation/PolynomialMutation.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
+#include <jMetalCpp/qualityIndicator/QualityIndicator.h>
 
 #include <iostream>
 #include <time.h>

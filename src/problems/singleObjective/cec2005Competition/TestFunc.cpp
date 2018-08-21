@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <TestFunc.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/TestFunc.h>
 
 /**
  * Constructor.

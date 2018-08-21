@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F10ShiftedRotatedRastrigin.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F10ShiftedRotatedRastrigin.h>
 
 // Fixed (class) parameters
 const string F10ShiftedRotatedRastrigin::FUNCTION_NAME = "Shifted Rotated Rastrigin's Function";

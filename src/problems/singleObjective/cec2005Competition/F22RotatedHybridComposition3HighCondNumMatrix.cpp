@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F22RotatedHybridComposition3HighCondNumMatrix.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F22RotatedHybridComposition3HighCondNumMatrix.h>
 
 // Fixed (class) parameters
 const string F22RotatedHybridComposition3HighCondNumMatrix::FUNCTION_NAME = "Rotated Hybrid Composition Function 3 with High Condition Number Matrix";

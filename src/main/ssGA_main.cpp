@@ -18,17 +18,17 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Problem.h>
-#include <Algorithm.h>
-#include <Solution.h>
-#include <RealSolutionType.h>
-#include <SBXCrossover.h>
-#include <PolynomialMutation.h>
-#include <BinaryTournament.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Algorithm.h>
+#include <jMetalCpp/core/Solution.h>
+#include <jMetalCpp/encodings/solutionType/RealSolutionType.h>
+#include <jMetalCpp/operators/crossover/SBXCrossover.h>
+#include <jMetalCpp/operators/mutation/PolynomialMutation.h>
+#include <jMetalCpp/operators/selection/BinaryTournament.h>
 #include <iostream>
-#include <ssGA.h>
+#include <jMetalCpp/metaheuristics/singleObjective/geneticAlgorithm/ssGA.h>
 #include <time.h>
-#include <ProblemFactory.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
 
 int main(int argc, char ** argv) {
 

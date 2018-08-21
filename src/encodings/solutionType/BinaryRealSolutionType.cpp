@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <BinaryRealSolutionType.h>
+#include <jMetalCpp/encodings/solutionType/BinaryRealSolutionType.h>
 #include <cstddef>
 
 

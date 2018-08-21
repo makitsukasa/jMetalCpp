@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <SMPSOhv.h>
+#include <jMetalCpp/metaheuristics/smpso/SMPSOhv.h>
 
 
 /**

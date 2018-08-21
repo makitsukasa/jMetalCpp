@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <ObjectiveComparator.h>
+#include <jMetalCpp/util/comparators/ObjectiveComparator.h>
 
 
 /**

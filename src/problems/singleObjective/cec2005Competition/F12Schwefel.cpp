@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F12Schwefel.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F12Schwefel.h>
 
 // Fixed (class) parameters
 const string F12Schwefel::FUNCTION_NAME = "Schwefel's Problem 2.13";

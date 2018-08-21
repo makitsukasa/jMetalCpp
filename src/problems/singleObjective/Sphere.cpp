@@ -19,7 +19,7 @@
 //  You should have received a copy of the GNU Lesser General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#include <Sphere.h>
+#include <jMetalCpp/problems/singleObjective/Sphere.h>
 
 /**
  * Constructor.

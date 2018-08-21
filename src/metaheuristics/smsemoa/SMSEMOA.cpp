@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <SMSEMOA.h>
+#include <jMetalCpp/metaheuristics/smsemoa/SMSEMOA.h>
 
 /*
  * This class implements the SMS-EMOA algorithm.

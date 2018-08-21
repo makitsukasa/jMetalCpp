@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F15HybridComposition1.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F15HybridComposition1.h>
 
 // Fixed (class) parameters
 const string F15HybridComposition1::FUNCTION_NAME = "Hybrid Composition Function 1";

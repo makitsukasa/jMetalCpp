@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F05SchwefelGlobalOptBound.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F05SchwefelGlobalOptBound.h>
 
 // Fixed (class) parameters
 const string F05SchwefelGlobalOptBound::FUNCTION_NAME = "Schwefel's Problem 2.6 with Global Optimum on Bounds";

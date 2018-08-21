@@ -58,7 +58,7 @@ OBJECTS := $(patsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(LIB_SOURCES:.$(SRCEXT)=.o))
 CFLAGS := -O3 -std=c++11 # -g # -Wall
 
 # Include flags when compiling
-INC := $(patsubst %,-I %/.,$(HEADER_DIRS))
+INC := -I./include
 
 
 # Library name

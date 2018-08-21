@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F11ShiftedRotatedWeierstrass.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F11ShiftedRotatedWeierstrass.h>
 
 // Fixed (class) parameters
 const string F11ShiftedRotatedWeierstrass::FUNCTION_NAME = "Shifted Rotated Weierstrass Function";

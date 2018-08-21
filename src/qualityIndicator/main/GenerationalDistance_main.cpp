@@ -21,7 +21,7 @@
 #include <vector>
 #include <stdio.h>
 
-#include <GenerationalDistance.h>
+#include <jMetalCpp/qualityIndicator/GenerationalDistance.h>
 
 using namespace std;
 

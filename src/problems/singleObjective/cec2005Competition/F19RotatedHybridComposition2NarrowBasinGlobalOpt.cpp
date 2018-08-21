@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F19RotatedHybridComposition2NarrowBasinGlobalOpt.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F19RotatedHybridComposition2NarrowBasinGlobalOpt.h>
 
 // Fixed (class) parameters
 const string F19RotatedHybridComposition2NarrowBasinGlobalOpt::FUNCTION_NAME = "Rotated Hybrid Composition Function 2 with narrow basin global optimum";

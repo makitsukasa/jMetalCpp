@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <RealSolutionType.h>
+#include <jMetalCpp/encodings/solutionType/RealSolutionType.h>
 #include <cstddef>
 
 

@@ -19,14 +19,14 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <Problem.h>
-#include <Solution.h>
-#include <SBXCrossover.h>
-#include <PolynomialMutation.h>
-#include <BinaryTournament2.h>
+#include <jMetalCpp/core/Problem.h>
+#include <jMetalCpp/core/Solution.h>
+#include <jMetalCpp/operators/crossover/SBXCrossover.h>
+#include <jMetalCpp/operators/mutation/PolynomialMutation.h>
+#include <jMetalCpp/operators/selection/BinaryTournament2.h>
 #include <iostream>
-#include <NSGAII.h>
-#include <ProblemFactory.h>
+#include <jMetalCpp/metaheuristics/nsgaII/NSGAII.h>
+#include <jMetalCpp/problems/ProblemFactory.h>
 #include <string.h>
 #include <time.h>
 

@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <FastSMSEMOA.h>
+#include <jMetalCpp/metaheuristics/smsemoa/FastSMSEMOA.h>
 
 /*
  * This class implements the SMS-EMOA algorithm using the FastHypervolume

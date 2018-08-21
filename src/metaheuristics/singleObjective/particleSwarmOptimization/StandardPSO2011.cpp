@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <StandardPSO2011.h>
+#include <jMetalCpp/metaheuristics/singleObjective/particleSwarmOptimization/StandardPSO2011.h>
 
 
 /**

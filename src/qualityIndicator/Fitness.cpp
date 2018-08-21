@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <Fitness.h>
+#include <jMetalCpp/qualityIndicator/Fitness.h>
 
 
 /**

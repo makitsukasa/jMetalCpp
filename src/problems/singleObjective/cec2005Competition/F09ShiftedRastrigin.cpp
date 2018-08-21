@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F09ShiftedRastrigin.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F09ShiftedRastrigin.h>
 
 // Fixed (class) parameters
 const string F09ShiftedRastrigin::FUNCTION_NAME = "Shifted Rastrigin's Function";

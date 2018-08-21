@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <BitFlipMutation.h>
+#include <jMetalCpp/operators/mutation/BitFlipMutation.h>
 
 
 /**

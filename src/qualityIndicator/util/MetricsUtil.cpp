@@ -19,7 +19,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <MetricsUtil.h>
+#include <jMetalCpp/qualityIndicator/util/MetricsUtil.h>
 
 
 using namespace std;

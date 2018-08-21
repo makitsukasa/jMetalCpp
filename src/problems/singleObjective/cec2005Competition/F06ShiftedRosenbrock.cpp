@@ -20,7 +20,7 @@
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-#include <F06ShiftedRosenbrock.h>
+#include <jMetalCpp/problems/singleObjective/cec2005Competition/F06ShiftedRosenbrock.h>
 
 // Fixed (class) parameters
 const string F06ShiftedRosenbrock::FUNCTION_NAME = "Shifted Rosenbrock's Function";
